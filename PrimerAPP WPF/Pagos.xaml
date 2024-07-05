@@ -1,0 +1,101 @@
+﻿<Window x:Class="PrimerAPP_WPF.Pagos"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:PrimerAPP_WPF"
+        mc:Ignorable="d"
+        Title="Pagos" Height="550" Width="380"
+        ResizeMode="CanMinimize">
+    <Window.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <ResourceDictionary Source="Dictionary1.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.DeepPurple.xaml"/>
+                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml"/>
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Window.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition/>
+            <RowDefinition Height="0.7*"/>
+            
+        </Grid.RowDefinitions>
+        <Image Source="C:/Users/mramirez/Desktop/Pago.png" Opacity="0.1">
+        </Image>
+        <Grid Grid.Row="0">
+            
+            <Grid.RowDefinitions>
+                <RowDefinition/>
+                <RowDefinition/>
+                <RowDefinition/>
+                
+            </Grid.RowDefinitions>
+
+            <Grid Grid.Row="0">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center">
+                    <Label Name="LB_Tipo" Content="Tipo" Margin="6,0,0,0"/>
+                    <ComboBox Name="CB_Tipo" Width="90" Height="25" Margin="10,0,0,0" SelectionChanged="CB_Tipo_SelectionChanged">
+                        <ComboBoxItem Content="Crear"/>
+                        <ComboBoxItem Content="Abonar"/>
+                    </ComboBox>
+                    <Label Name="LB_Por" Content="Por" Margin="10,0,0,0"/>
+                    <ComboBox Name="CB_Por" Width="90" Height="25" Margin="10,0,0,0" SelectionChanged="CB_Por_SelectionChanged">
+                    </ComboBox>
+                </StackPanel>
+                <StackPanel  Grid.Row="0" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Center">
+                <Label Name="LB_IngMensu" Content="Ingresos Mensuales" Margin="10,0,0,0"/>
+                <TextBox Name="TB_IngMensu" Width="90" Height="25" Margin="10,0,0,0">
+                </TextBox>
+                </StackPanel>
+            </Grid>
+
+
+            <Grid Grid.Row="1">
+                <Grid.RowDefinitions>
+                    <RowDefinition/>
+                    <RowDefinition />
+                </Grid.RowDefinitions>
+                <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top">
+                    <Label Name="LB_FechaIni" Content="Fecha Inicial" Margin="6,0,0,0"/>
+                    <DatePicker Name="DP_FechaIni" Width="90" Height="25" Margin="10,0,0,0" />
+
+
+                    <Label Name="LB_FechaFin" Content="Fecha Final" Margin="10,0,0,0"/>
+                    <DatePicker Name="DP_FechaFin" Width="90" Height="25" Margin="10,0,0,0"/>
+
+                 
+                </StackPanel>
+                <StackPanel Grid.Row="1" Orientation="Horizontal" HorizontalAlignment="Left" VerticalAlignment="Top">
+                   
+                    <Label Name="LB_Cuota" Content="Cuota" Margin="215,0,0,0"/>
+                    <TextBox Name="TB_Cuota" Width="90" Height="25" Margin="10,0,0,0"/>
+
+                </StackPanel>
+
+
+            </Grid>
+
+
+        </Grid>
+
+        <Grid Grid.Row="1" Height ="216" Margin="0,0,0,25">
+            <DataGrid x:Name="DG_1"/>
+        </Grid>
+
+        <Grid Grid.Row="1" Height="25" Margin="0,187,0,0">
+            <Border Style="{StaticResource MaterialDesignToolBarMainPanelBorderStyle}" BorderThickness="1" BorderBrush="LightGray" Margin="0,0,0,0">
+                <Label Name="LB_Version" Content="Versión 1.0.0"/>
+            </Border>
+        </Grid>
+        
+        
+    </Grid>
+</Window>

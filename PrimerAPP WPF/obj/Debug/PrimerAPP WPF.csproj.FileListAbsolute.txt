@@ -1,0 +1,56 @@
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\PrimerAPP WPF.exe.config
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\PrimerAPP WPF.exe
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\PrimerAPP WPF.pdb
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\PrimerAPP WPF.csproj.AssemblyReference.cache
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\MainWindow.g.cs
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\App.g.cs
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\PrimerAPP WPF_MarkupCompile.cache
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\PrimerAPP WPF_MarkupCompile.lref
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\MainWindow.baml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\PrimerAPP WPF.g.resources
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\PrimerAPP_WPF.Properties.Resources.resources
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\PrimerAPP WPF.csproj.GenerateResource.cache
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\PrimerAPP WPF.csproj.CoreCompileInputs.cache
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\PrimerAPP WPF.exe
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\PrimerAPP WPF.pdb
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\Dictionary1.baml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\Dynamitey.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\ExtendedWPFConverters.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\ExtendedWPFVisualTreeHelper.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\MaterialDesignColors.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\MaterialDesignThemes.Wpf.AddOns.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\System.Drawing.Common.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\ExtendedWPFConverters.xml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\ExtendedWPFVisualTreeHelper.xml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\MaterialDesignColors.pdb
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\MaterialDesignThemes.Wpf.AddOns.xml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\PrimerAP.CF82C005.Up2Date
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\Ahorros.g.cs
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\Inversiones.g.cs
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\Pagos.g.cs
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\Ahorros.baml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\Inversiones.baml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\Pagos.baml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\MahApps.Metro.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\MaterialDesignThemes.MahApps.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\MahApps.Metro.pdb
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\MahApps.Metro.xml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\ControlzEx.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\ControlzEx.pdb
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\ControlzEx.xml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\de\MahApps.Metro.resources.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\LiveCharts.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\LiveCharts.Wpf.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\LiveCharts.pdb
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\LiveCharts.xml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\LiveCharts.Wpf.pdb
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\LiveCharts.Wpf.xml
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\C_Graficas.g.cs
+C:\Users\mramirez\Desktop\Todas las carpetas\VS\WPF\PrimerAPP WPF\PrimerAPP WPF\obj\Debug\C_Graficas.baml
