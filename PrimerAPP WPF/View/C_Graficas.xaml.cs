@@ -50,7 +50,7 @@ namespace PrimerAPP_WPF
             InitializeComponent();
 
             infoListasString();
-            DataContext = this;
+            
         }
 
 
@@ -72,8 +72,7 @@ namespace PrimerAPP_WPF
             }
             
 
-            Graficas g1 = new Graficas(dinero, fechas);
-            Series = g1.Graficar();
+            
 
             
         }

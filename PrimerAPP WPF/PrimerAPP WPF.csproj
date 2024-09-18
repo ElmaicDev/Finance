@@ -101,59 +101,58 @@
     <Reference Include="PresentationFramework" />
   </ItemGroup>
   <ItemGroup>
-    <ApplicationDefinition Include="App.xaml">
+    <ApplicationDefinition Include="View\App.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="eProyecto.cs" />
-    <Compile Include="C_Graficas.xaml.cs">
+    <Compile Include="Model\eProyecto.cs" />
+    <Compile Include="View\C_Graficas.xaml.cs">
       <DependentUpon>C_Graficas.xaml</DependentUpon>
     </Compile>
-    <Page Include="Ahorros.xaml">
+    <Page Include="View\Ahorros.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Dictionary1.xaml">
+    <Page Include="View\Dictionary1.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="Inversiones.xaml">
+    <Page Include="View\Inversiones.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="MainWindow.xaml">
+    <Page Include="View\MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
-    <Compile Include="Ahorros.xaml.cs">
+    <Compile Include="View\Ahorros.xaml.cs">
       <DependentUpon>Ahorros.xaml</DependentUpon>
     </Compile>
-    <Compile Include="App.xaml.cs">
+    <Compile Include="View\App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Compile Include="DGVariables.cs" />
-    <Compile Include="Inversiones.xaml.cs">
+    <Compile Include="Model\DGVariables.cs" />
+    <Compile Include="View\Inversiones.xaml.cs">
       <DependentUpon>Inversiones.xaml</DependentUpon>
     </Compile>
-    <Compile Include="MainWindow.xaml.cs">
+    <Compile Include="View\MainWindow.xaml.cs">
       <DependentUpon>MainWindow.xaml</DependentUpon>
       <SubType>Code</SubType>
     </Compile>
-    <Page Include="Pagos.xaml">
+    <Page Include="View\Pagos.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
-    <Page Include="C_Graficas.xaml">
+    <Page Include="View\C_Graficas.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Pagos.xaml.cs">
+    <Compile Include="View\Pagos.xaml.cs">
       <DependentUpon>Pagos.xaml</DependentUpon>
     </Compile>
-    <Compile Include="pGraficas.cs" />
     <Compile Include="Properties\AssemblyInfo.cs">
       <SubType>Code</SubType>
     </Compile>
@@ -171,14 +170,17 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <None Include="packages.config" />
+    <None Include="View\packages.config" />
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
     </None>
   </ItemGroup>
   <ItemGroup>
-    <None Include="App.config" />
+    <None Include="View\App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="ViewModel\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\MaterialDesignThemes.4.5.0\build\MaterialDesignThemes.targets" Condition="Exists('..\packages\MaterialDesignThemes.4.5.0\build\MaterialDesignThemes.targets')" />

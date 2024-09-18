@@ -19,9 +19,6 @@ namespace Class1
 
 
 
-        public Variables()
-		{
-		}
 
 	}
 	

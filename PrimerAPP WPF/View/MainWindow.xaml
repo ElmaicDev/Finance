@@ -128,16 +128,13 @@
 
             </Grid>
 
-           
+
 
 
 
 
 
             <Grid Grid.Row="0" >
-                <Grid.Background>
-                    <ImageBrush ImageSource="C:/Users/mramirez/Desktop/descarga.png" Opacity ="0.1" Stretch="Uniform" RenderOptions.BitmapScalingMode="HighQuality"/>
-                </Grid.Background>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition />
                 </Grid.ColumnDefinitions>
