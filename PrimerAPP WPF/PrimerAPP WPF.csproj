@@ -105,7 +105,11 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="ViewModel\Años.cs" />
+    <Compile Include="ViewModel\Días.cs" />
     <Compile Include="Model\eProyecto.cs" />
+    <Compile Include="ViewModel\Meses.cs" />
+    <Compile Include="ViewModel\Semanas.cs" />
     <Compile Include="View\C_Graficas.xaml.cs">
       <DependentUpon>C_Graficas.xaml</DependentUpon>
     </Compile>
@@ -179,9 +183,7 @@
   <ItemGroup>
     <None Include="View\App.config" />
   </ItemGroup>
-  <ItemGroup>
-    <Folder Include="ViewModel\" />
-  </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="..\packages\MaterialDesignThemes.4.5.0\build\MaterialDesignThemes.targets" Condition="Exists('..\packages\MaterialDesignThemes.4.5.0\build\MaterialDesignThemes.targets')" />
   <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">

@@ -18,8 +18,11 @@ namespace Class1
         public string MetodoPago { get; set; }
 
 
+        public override string ToString()
+        {
+            return $"Fecha:{Fecha} | Ing:{Ingresos} | Egr:{Egresos}";
+        }
 
-
-	}
+    }
 	
 }
