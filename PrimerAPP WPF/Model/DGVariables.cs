@@ -3,7 +3,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Class1
+namespace Model
 {
 
 	[Serializable]
@@ -20,7 +20,7 @@ namespace Class1
 
         public override string ToString()
         {
-            return $"Fecha:{Fecha} | Ing:{Ingresos} | Egr:{Egresos}";
+            return $"Fecha:{Fecha} | Ing:{Ingresos} | Egr:{Egresos} | Descr:{Descripcion}";
         }
 
     }

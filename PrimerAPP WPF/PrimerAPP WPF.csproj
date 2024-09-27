@@ -105,11 +105,12 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
-    <Compile Include="ViewModel\Años.cs" />
-    <Compile Include="ViewModel\Días.cs" />
+    <Compile Include="ViewModel\CommandHandler.cs" />
+    <Compile Include="ViewModel\VMAños.cs" />
+    <Compile Include="ViewModel\VMDía.cs" />
     <Compile Include="Model\eProyecto.cs" />
-    <Compile Include="ViewModel\Meses.cs" />
-    <Compile Include="ViewModel\Semanas.cs" />
+    <Compile Include="ViewModel\VMMeses.cs" />
+    <Compile Include="ViewModel\VMSemanas.cs" />
     <Compile Include="View\C_Graficas.xaml.cs">
       <DependentUpon>C_Graficas.xaml</DependentUpon>
     </Compile>

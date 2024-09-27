@@ -1,4 +1,4 @@
-﻿using Class1;
+﻿using Model;
 using LiveCharts;
 using System;
 using System.Collections.Generic;
@@ -16,7 +16,7 @@ using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace PrimerAPP_WPF
+namespace PrimerAPP_WPF.View
 {
     /// <summary>
     /// Lógica de interacción para UserControl1.xaml
