@@ -1,9 +1,8 @@
-﻿using PrimerAPP_WPF;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace Model
+namespace PrimerAPP_WPF.Model
 {
 
 	[Serializable]

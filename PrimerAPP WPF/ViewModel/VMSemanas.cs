@@ -1,4 +1,4 @@
-﻿using Model;
+﻿using PrimerAPP_WPF.Model;
 using System;
 using System.Collections.Generic;
 using System.ComponentModel;
@@ -11,7 +11,7 @@ namespace PrimerAPP_WPF.ViewModel
     public class VMSemanas : INotifyPropertyChanged
     {
 
-        List<VMDía> dias = new List<VMDía>();
+        List<VMDia> dias = new List<VMDia>();
         
 
 

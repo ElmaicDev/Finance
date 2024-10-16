@@ -15,7 +15,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Model;
+using PrimerAPP_WPF.Model;
 using Dynamitey.DynamicObjects;
 using LiveCharts;
 using LiveCharts.Defaults;
@@ -49,7 +49,7 @@ namespace PrimerAPP_WPF.View
         {
             InitializeComponent();
 
-            DataContext = new VMDía();
+            DataContext = new VMDia();
             
 
             //LlenarCB();

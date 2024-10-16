@@ -11,7 +11,7 @@ namespace PrimerAPP_WPF.ViewModel
     {
 
 
-        List<VMDía> dias = new List<VMDía>();
+        List<VMDia> dias = new List<VMDia>();
         List<VMSemanas> semanas = new List<VMSemanas>();
 
 

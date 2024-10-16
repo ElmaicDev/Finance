@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom.Compiler;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -11,7 +12,7 @@ namespace PrimerAPP_WPF.ViewModel
     {
 
         private readonly Action _execute;
-        
+        private readonly Func<bool> _canExecute;
 
         public event EventHandler CanExecuteChanged;
 
@@ -19,6 +20,12 @@ namespace PrimerAPP_WPF.ViewModel
         {
             _execute = execute;
             
+        }
+
+        public CommandHandler(Action execute, Func<bool> canExecute)
+        {
+            _execute = execute;
+            _canExecute = canExecute;
         }
 
         public bool CanExecute(object parameter)

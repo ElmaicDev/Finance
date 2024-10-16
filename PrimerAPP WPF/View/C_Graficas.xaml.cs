@@ -1,4 +1,4 @@
-﻿using Model;
+﻿using PrimerAPP_WPF.Model;
 using LiveCharts;
 using System;
 using System.Collections.Generic;

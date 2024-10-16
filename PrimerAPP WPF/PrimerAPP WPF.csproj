@@ -107,7 +107,7 @@
     </ApplicationDefinition>
     <Compile Include="ViewModel\CommandHandler.cs" />
     <Compile Include="ViewModel\VMAños.cs" />
-    <Compile Include="ViewModel\VMDía.cs" />
+    <Compile Include="ViewModel\VMDia.cs" />
     <Compile Include="Model\eProyecto.cs" />
     <Compile Include="ViewModel\VMMeses.cs" />
     <Compile Include="ViewModel\VMSemanas.cs" />
