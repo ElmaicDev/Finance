@@ -7,7 +7,11 @@
       "RelativeMoniker": "D:0:0:{69006586-16C3-42BD-B09E-16D4508D6E03}|PrimerAPP WPF\\PrimerAPP WPF.csproj|solutionrelative:primerapp wpf\\view\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{69006586-16C3-42BD-B09E-16D4508D6E03}|PrimerAPP WPF\\PrimerAPP WPF.csproj|c:\\users\\mramirez\\desktop\\todas las carpetas\\vs\\wpf\\primerapp wpf\\finance\\primerapp wpf\\viewmodel\\vmdia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mramirez\\Desktop\\Todas las carpetas\\VS\\WPF\\PrimerAPP WPF\\Finance\\PrimerAPP WPF\\obj\\Debug\\View\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrimerAPP WPF\\obj\\Debug\\View\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69006586-16C3-42BD-B09E-16D4508D6E03}|PrimerAPP WPF\\PrimerAPP WPF.csproj|C:\\Users\\mramirez\\Desktop\\Todas las carpetas\\VS\\WPF\\PrimerAPP WPF\\Finance\\primerapp wpf\\viewmodel\\vmdia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{69006586-16C3-42BD-B09E-16D4508D6E03}|PrimerAPP WPF\\PrimerAPP WPF.csproj|solutionrelative:primerapp wpf\\viewmodel\\vmdia.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -21,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{69006586-16C3-42BD-B09E-16D4508D6E03}|PrimerAPP WPF\\PrimerAPP WPF.csproj|C:\\Users\\mramirez\\Desktop\\Todas las carpetas\\VS\\WPF\\PrimerAPP WPF\\Finance\\primerapp wpf\\view\\dictionary1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{69006586-16C3-42BD-B09E-16D4508D6E03}|PrimerAPP WPF\\PrimerAPP WPF.csproj|solutionrelative:primerapp wpf\\view\\dictionary1.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\mramirez\\Desktop\\Todas las carpetas\\VS\\WPF\\PrimerAPP WPF\\Finance\\PrimerAPP WPF\\obj\\Debug\\View\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PrimerAPP WPF\\obj\\Debug\\View\\MainWindow.g.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{69006586-16C3-42BD-B09E-16D4508D6E03}|PrimerAPP WPF\\PrimerAPP WPF.csproj|C:\\Users\\mramirez\\Desktop\\Todas las carpetas\\VS\\WPF\\PrimerAPP WPF\\Finance\\primerapp wpf\\viewmodel\\vmsemanas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -94,7 +94,7 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "VMDia.cs",
               "DocumentMoniker": "C:\\Users\\mramirez\\Desktop\\Todas las carpetas\\VS\\WPF\\PrimerAPP WPF\\Finance\\PrimerAPP WPF\\ViewModel\\VMDia.cs",
               "RelativeDocumentMoniker": "PrimerAPP WPF\\ViewModel\\VMDia.cs",
@@ -108,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 1,
               "Title": "MainWindow.g.cs",
               "DocumentMoniker": "C:\\Users\\mramirez\\Desktop\\Todas las carpetas\\VS\\WPF\\PrimerAPP WPF\\Finance\\PrimerAPP WPF\\obj\\Debug\\View\\MainWindow.g.cs",
               "RelativeDocumentMoniker": "PrimerAPP WPF\\obj\\Debug\\View\\MainWindow.g.cs",
@@ -116,11 +116,12 @@
               "RelativeToolTip": "PrimerAPP WPF\\obj\\Debug\\View\\MainWindow.g.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAwwBEAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-04T20:18:44.71Z"
+              "WhenOpened": "2024-10-04T20:18:44.71Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\mramirez\\Desktop\\Todas las carpetas\\VS\\WPF\\PrimerAPP WPF\\Finance\\PrimerAPP WPF\\View\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "PrimerAPP WPF\\View\\MainWindow.xaml.cs",
@@ -133,7 +134,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "DGVariables.cs",
               "DocumentMoniker": "C:\\Users\\mramirez\\Desktop\\Todas las carpetas\\VS\\WPF\\PrimerAPP WPF\\Finance\\PrimerAPP WPF\\Model\\DGVariables.cs",
               "RelativeDocumentMoniker": "PrimerAPP WPF\\Model\\DGVariables.cs",
@@ -146,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Dictionary1.xaml",
               "DocumentMoniker": "C:\\Users\\mramirez\\Desktop\\Todas las carpetas\\VS\\WPF\\PrimerAPP WPF\\Finance\\PrimerAPP WPF\\View\\Dictionary1.xaml",
               "RelativeDocumentMoniker": "PrimerAPP WPF\\View\\Dictionary1.xaml",
@@ -216,7 +217,8 @@
               "RelativeToolTip": "PrimerAPP WPF\\View\\C_Graficas.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T18:25:17.83Z"
+              "WhenOpened": "2024-09-19T18:25:17.83Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -241,7 +243,8 @@
               "RelativeToolTip": "PrimerAPP WPF\\Model\\eProyecto.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T18:04:26.759Z"
+              "WhenOpened": "2024-09-19T18:04:26.759Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -253,7 +256,8 @@
               "RelativeToolTip": "PrimerAPP WPF\\View\\App.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T19:01:17.515Z"
+              "WhenOpened": "2024-09-27T19:01:17.515Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -265,7 +269,8 @@
               "RelativeToolTip": "PrimerAPP WPF\\ViewModel\\CommandHandler.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAXAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-27T20:04:03.758Z"
+              "WhenOpened": "2024-09-27T20:04:03.758Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -289,7 +294,8 @@
               "RelativeToolTip": "PrimerAPP WPF\\View\\Inversiones.xaml.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T18:25:10.096Z"
+              "WhenOpened": "2024-09-19T18:25:10.096Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -301,7 +307,8 @@
               "RelativeToolTip": "PrimerAPP WPF\\View\\App.config",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
-              "WhenOpened": "2024-09-18T18:28:53.045Z"
+              "WhenOpened": "2024-09-18T18:28:53.045Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

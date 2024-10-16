@@ -21,14 +21,7 @@
 
             <ResourceDictionary.MergedDictionaries>
                 <ResourceDictionary Source="Dictionary1.xaml"/>
-                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
-                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
-                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Themes/Light.Blue.xaml" />
-                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Light.xaml"/>
-                <ResourceDictionary Source="pack://application:,,,/MaterialDesignThemes.Wpf;component/Themes/MaterialDesignTheme.Defaults.xaml"/>
-                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Primary/MaterialDesignColor.DeepPurple.xaml"/>
-                <ResourceDictionary Source="pack://application:,,,/MaterialDesignColors;component/Themes/Recommended/Accent/MaterialDesignColor.Lime.xaml"/>
-
+               
             </ResourceDictionary.MergedDictionaries>
         </ResourceDictionary>
 
@@ -51,10 +44,10 @@
             <RowDefinition Height="25" />
         </Grid.RowDefinitions>
 
-        <Border Style="{StaticResource MaterialDesignToolBarMainPanelBorderStyle}" BorderBrush="LightGray" BorderThickness="1" Height="25" Margin="0,0,0,0" Grid.ColumnSpan="2">
+        <Border  BorderBrush="LightGray" BorderThickness="1" Height="25" Margin="0,0,0,0" Grid.ColumnSpan="2">
             <StackPanel Grid.Row="0" Grid.Column="0" HorizontalAlignment="Left" Orientation="Horizontal">
 
-                <ToggleButton x:Name="BT_Archivo" Content="Archivo" Style="{StaticResource MahApps.Styles.Button.Chromeless}" Margin="3,0,0,0" >
+                <ToggleButton x:Name="BT_Archivo" Content="Archivo"  Margin="3,0,0,0" >
                     <ToggleButton.ContextMenu>
                         <ContextMenu>
                             <MenuItem Header="Nuevo"/>
@@ -72,7 +65,7 @@
                     </ToggleButton.ContextMenu>
                 </ToggleButton>
 
-                <ToggleButton x:Name="BT_Editar" Content="Archivo" Style="{StaticResource MahApps.Styles.Button.Chromeless}" Margin="7,0,0,0" >
+                <ToggleButton x:Name="BT_Editar" Content="Archivo"  Margin="7,0,0,0" >
                     
                         
                 </ToggleButton>
@@ -81,7 +74,7 @@
 
 
 
-        <Border Style="{StaticResource MaterialDesignToolBarMainPanelBorderStyle}" Grid.Row="2" Grid.Column="0" BorderBrush="LightGray" BorderThickness="1" Margin="0,0,0,0" Grid.ColumnSpan="2">
+        <Border  Grid.Row="2" Grid.Column="0" BorderBrush="LightGray" BorderThickness="1" Margin="0,0,0,0" Grid.ColumnSpan="2">
             <Label Content="Versión 1.0.0" HorizontalAlignment="Left" Margin="7,0,0,0" Grid.Row="4" VerticalAlignment="Center"/>
         </Border>
 
@@ -104,8 +97,6 @@
                         <DatePicker Name="DP_Fecha" Width="120" Height="30" Margin="20,0,0,0" 
                                     SelectedDate="{Binding Fecha}"
                                     SelectedDateFormat="Short"
-                                    Style="{StaticResource MaterialDesignDatePicker}" 
-                                    CalendarStyle="{StaticResource  MaterialDesignCalendarPortraitForeground}"
                                     DisplayDateStart="1900-01-01" 
                                     DisplayDateEnd="2100-12-31"
                                     />
@@ -114,7 +105,7 @@
 
                         <StackPanel Orientation="Horizontal" Margin="5,25,0,0" Width="300">
                         <Label Content="Categoría:" HorizontalAlignment="Left" Margin="33,0,0,0" FontSize="15" FontWeight="Bold"/>
-                        <ComboBox Name="CB_Categoria" Width="120" Height="30" Margin="20,0,0,0" Text="{Binding Categoria}" ItemsSource="{Binding Source={x:Static md:eCategorias}}"/>
+                        <ComboBox Name="CB_Categoria" Width="120" Height="30" Margin="20,0,0,0" Text="{Binding Categoria}" />
                     </StackPanel>
 
                     <StackPanel Orientation="Horizontal" Margin="5,25,0,0" Width="300">
