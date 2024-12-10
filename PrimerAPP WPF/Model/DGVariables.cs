@@ -19,8 +19,10 @@ namespace PrimerAPP_WPF.Model
 
         public override string ToString()
         {
+			var a = 1000;
             return $"Fecha:{Fecha} | Ing:{Ingresos} | Egr:{Egresos} | Descr:{Descripcion}";
         }
+
 
     }
 	

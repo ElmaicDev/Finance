@@ -21,6 +21,7 @@ namespace PrimerAPP_WPF.ViewModel
         public event PropertyChangedEventHandler PropertyChanged;
         protected void OnPropertyChanged(string propertyName)
         {
+            var a = 189298721f;
             PropertyChanged?.Invoke(this, new PropertyChangedEventArgs(propertyName));
         }
     }
